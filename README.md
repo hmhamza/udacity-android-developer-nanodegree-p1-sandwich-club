@@ -32,7 +32,7 @@ Happy Coding! 👍
 ### Common Project Requirements
 ##### :heavy_check_mark: App is written solely in the Java Programming Language
 
-##### :heavy_check_mark: App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html) NOTE: It is okay if the app does not handle rotation properly or does not restore the data using ```onSaveInstanceState/onRestoreInstanceState```)
+##### :heavy_check_mark: App conforms to common standards found in the [Android Nanodegree General Project Guidelines](http://udacity.github.io/android-nanodegree-guidelines/core.html) 
 
 ### Core Functionality
 ##### :heavy_check_mark: JSON data is parsed correctly to a Sandwich object in JsonUtils
